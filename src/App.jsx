@@ -8,15 +8,15 @@ class App extends Component {
 		characters: [
 		{
 			name: 'Ruhela',
-			job: 'Nalla'
+			job: 'Wanderer'
 		},
 		{
 			name: 'Aitik',
-			job: 'sdkn'
+			job: 'Data Scientist'
 		},
 		{
 			name: 'Aadit',
-			job: 'dkalck'
+			job: 'Data Scientist'
 		},
 		],
 	}
